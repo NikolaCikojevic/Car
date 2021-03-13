@@ -7,7 +7,7 @@ public class Car {
     private int buildYear;
     
     public int getbuildYear () {
-        return  this.buildYear;
+        return this.buildYear;
     }
     
     public Car(String brand, String model, String color, int buildYear) {
